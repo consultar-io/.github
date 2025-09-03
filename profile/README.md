@@ -1,4 +1,4 @@
-# Consultar IO
+# Consultar.IO
 Consulte dados cadastrais de Pessoas Físicas e Pessoas Jurídicas
 
 ## CNPJ e CPF
